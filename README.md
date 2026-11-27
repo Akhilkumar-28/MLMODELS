@@ -170,3 +170,15 @@ Or open in Google Colab and run all cells.
 * GroupLens Research for the dataset
 * Scikit-learn library
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akhilkumar-28/MLMODELS/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akhilkumar-28/MLMODELS/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

@@ -178,6 +178,7 @@ Or open in Google Colab and run all cells.
 | ------- |
 | [0001-two-sum](https://github.com/Akhilkumar-28/MLMODELS/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhilkumar-28/MLMODELS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Akhilkumar-28/MLMODELS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Akhilkumar-28/MLMODELS/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -191,5 +192,6 @@ Or open in Google Colab and run all cells.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Akhilkumar-28/MLMODELS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Akhilkumar-28/MLMODELS/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
